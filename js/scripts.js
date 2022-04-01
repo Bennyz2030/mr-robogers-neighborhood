@@ -19,6 +19,4 @@ $(document).ready(function() {
     const outputArray = roboTranslate($("#user-input").val());
     $("#output").text(outputArray);
   });
-
-  
 });
