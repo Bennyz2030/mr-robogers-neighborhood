@@ -12,3 +12,9 @@ function roboTranslate(input) {
   }
   return outputArray;
 }
+
+$(document).ready(function() {
+  $("#user-input").submit(function(event) {
+    event.preventDefault();
+  })
+})
