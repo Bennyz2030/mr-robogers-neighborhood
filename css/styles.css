@@ -11,9 +11,9 @@
 
 h1 {
   text-align: center;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color: #81797e;
-  text-shadow: 3px 3px 3px rgb(248, 248, 248);
+  font-family: monospace;
+  color: #e2dde1;
+  text-shadow: 3px 3px 3px #ff65bd;
 }
 
 .jumbotron {
@@ -42,7 +42,8 @@ form {
 }
 
 label {
-  color: slategray;
+  color: rgb(225, 228, 232);
+  text-shadow: 1px 1px 1px #ff65bd;
 }
 
 @font-face {

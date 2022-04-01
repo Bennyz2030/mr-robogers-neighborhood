@@ -1,3 +1,45 @@
+# Mr.Roboger's Neighborhood 👾
+
+## By Nicholas Benzinger
+_____________________________
+
+### Project Discription 📖
+  _On this web page the user can enter any number and it will be returned as a string of all numbers contained within that numner plus some robot talk to replace the numbers 1, 2, and 3._
+  _____________________________
+
+### Technologies Used 🖥️
+
+* _HTML_
+* _JavaScript_
+* _CSS_
+* _JQuery_
+* _Bootstrap_
+_______________________________
+
+### Installation Instructions 🖊️
+
+* _Clone this repository to your desktop_
+* _naviagte to the top level of the directory_
+* _open index.html in your web browser_
+* _Or, open in GitHub Pages [here](https://bennyz2030.github.io/mr-robogers-neighborhood/)_
+________________________________
+
+### Known Bugs 🐛
+
+* _No known bugs._
+* _If you should find any bugs open a pull request, or email me._
+__________________________________
+
+## License
+
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
+__________________________________
+
+## Contact Information
+nicholasbenzinger@gmail.com
+
+
+
 ## Description: roboTranslate(input)
 >This function will take inputted numbers from the user and return a string with the number 1 replaced with "Beep!", the number 2 replaced with "Boop!", and the number 3 replaced with "Won't you be my neighbor?".
 
