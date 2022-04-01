@@ -1,4 +1,4 @@
-## Description: roboTranslate(number)
+## Description: roboTranslate(input)
 >This function will take inputted numbers from the user and return a string with the number 1 replaced with "Beep!", the number 2 replaced with "Boop!", and the number 3 replaced with "Won't you be my neighbor?".
 
 |                Test                |        Code      |     Expected Output     |

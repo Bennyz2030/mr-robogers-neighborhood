@@ -6,6 +6,8 @@ function roboTranslate(input) {
     outputArray.splice(i, 1, "Beep!");
   } else if ([i].toString().includes("2")) {
     outputArray.splice(i, 2, "Boop!");
+  } else if ([i].toString().includes("3")) {
+    outputArray.splice(i, 3, "Won't you be my neighbor?")
     }
   }
   return outputArray;
