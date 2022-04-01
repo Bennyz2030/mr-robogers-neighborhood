@@ -13,9 +13,9 @@
 | 4. "It should replace any occurence| roboTranslate(3);  | "Won't you be my        |
 | of the number 3 with "Won't you    |                  | neighbor?"              |
 | be my neighbor?"."                 |                  |                         |
-| 5. "It should prioritize the number| roboTranslate(2,1,3);| "Won't you be my        |
+| 5. "It should prioritize the number| roboTranslate(3);| "Won't you be my        |
 | 3 overs the numbers 1 and 2."      |                  | neighbor?"              |
-| 6. "It should prioritize the number| roboTranslate(2,1); | "Boop!"                 |
+| 6. "It should prioritize the number| roboTranslate(2); | "Boop!"                 |
 | 2 over the number 1."              |                  |                         |
-| 7. "It should return the replaced  | roboTranslate(2,1,3);| "Won't you be my        |
+| 7. "It should return the replaced  | roboTranslate(3);| "Won't you be my        |
 | text as a string to the user."     |                  | neighbor?               |
