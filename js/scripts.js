@@ -14,7 +14,9 @@ function roboTranslate(input) {
 }
 
 $(document).ready(function() {
-  $("#user-input").submit(function(event) {
+  $("form#input").submit(function(event) {
     event.preventDefault();
+    const outputArray = roboTranslate($("#user-input").val());
+    $("#output").text(outputArray);
   })
 })
