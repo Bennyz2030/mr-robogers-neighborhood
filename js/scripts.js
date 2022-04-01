@@ -18,5 +18,7 @@ $(document).ready(function() {
     event.preventDefault();
     const outputArray = roboTranslate($("#user-input").val());
     $("#output").text(outputArray);
-  })
-})
+  });
+
+  
+});
